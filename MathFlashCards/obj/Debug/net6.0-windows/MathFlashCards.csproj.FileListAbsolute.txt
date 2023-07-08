@@ -1,0 +1,17 @@
+C:\Users\ASUS\Documents\C#\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\MathFlashCards.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\C#\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\MathFlashCards.Form1.resources
+C:\Users\ASUS\Documents\C#\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\MathFlashCards.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\C#\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\MathFlashCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\C#\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\MathFlashCards.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\C#\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\MathFlashCards.AssemblyInfo.cs
+C:\Users\ASUS\Documents\C#\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\MathFlashCards.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\C#\MathFlashCards\MathFlashCards\bin\Debug\net6.0-windows\MathFlashCards.exe
+C:\Users\ASUS\Documents\C#\MathFlashCards\MathFlashCards\bin\Debug\net6.0-windows\MathFlashCards.deps.json
+C:\Users\ASUS\Documents\C#\MathFlashCards\MathFlashCards\bin\Debug\net6.0-windows\MathFlashCards.runtimeconfig.json
+C:\Users\ASUS\Documents\C#\MathFlashCards\MathFlashCards\bin\Debug\net6.0-windows\MathFlashCards.dll
+C:\Users\ASUS\Documents\C#\MathFlashCards\MathFlashCards\bin\Debug\net6.0-windows\MathFlashCards.pdb
+C:\Users\ASUS\Documents\C#\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\MathFlashCards.dll
+C:\Users\ASUS\Documents\C#\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\refint\MathFlashCards.dll
+C:\Users\ASUS\Documents\C#\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\MathFlashCards.pdb
+C:\Users\ASUS\Documents\C#\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\MathFlashCards.genruntimeconfig.cache
+C:\Users\ASUS\Documents\C#\MathFlashCards\MathFlashCards\obj\Debug\net6.0-windows\ref\MathFlashCards.dll
